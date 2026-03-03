@@ -10,3 +10,5 @@ Current goals:
 Even $1 a month helps.
 
 Thank you!
+
+(for more payment methods using ***Stripe***, use [this page](https://planetpeanut.studio/sponsors))
