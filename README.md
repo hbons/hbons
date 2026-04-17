@@ -5,7 +5,7 @@ I was <a href="https://www.theguardian.com/technology/2025/may/13/microsoft-layo
 Current goals:
 - Rewrite <a href="https://github.com/hbons/SparkleShare" target="_blank">SparkleShare</a> from C# to 🦀 <a href="https://github.com/hbons/Twinkle" target="_blank">Rust</a>
 - Polish ✨ <a href="https://github.com/hbons/Bobby" target="_blank">Bobby</a> and submit it to GNOME Circle
-- Start an initiative so FOSS-projects can get ✏️ **_free design support_** from me
+- Start an initiative so FOSS-projects can get ✏️ **_[free design support](https://github.com/hbons/free-design-services)_** from me
 
 Even $1 a month helps.
 
